@@ -7,4 +7,4 @@ We have build a classifier model to achieve this result..
 
 ### Data
 
-The labeled dataset can be downloaded from an open source websites.
+The labeled dataset was downloaded from an open source websites.
